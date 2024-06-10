@@ -32,7 +32,7 @@ const Hero = () => {
           />
 
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            Hi! I&apos;m Harshit, a Frontend Developer based in India.
+            Hi! I&apos;m Cody, a Frontend Developer based in Taiwan.
           </p>
 
           <a href="#projects">
