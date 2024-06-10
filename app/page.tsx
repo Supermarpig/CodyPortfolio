@@ -1,11 +1,11 @@
 "use client";
-// import Approach from "@/components/Approach";
-// import Clients from "@/components/Clients";
-// import Experience from "@/components/Experience";
-// import Footer from "@/components/Footer";
+import Approach from "@/components/Approach";
+import Clients from "@/components/Clients";
+import Experience from "@/components/Experience";
+import Footer from "@/components/Footer";
 import Grid from "@/components/Grid";
 import Hero from "@/components/Hero";
-// import RecentProjects from "@/components/RecentProjects";
+import RecentProjects from "@/components/RecentProjects";
 import { FloatingNav } from "@/components/ui/FloatingNav";
 import { navItems } from "@/data";
 import React from "react";
@@ -18,11 +18,11 @@ const Home = () => {
         <FloatingNav navItems={navItems} />
         <Hero />
         <Grid />
-        {/* <RecentProjects />
+        <RecentProjects />
         <Clients />
         <Experience />
         <Approach />
-        <Footer /> */}
+        <Footer />
       </div>
     </main>
   );
