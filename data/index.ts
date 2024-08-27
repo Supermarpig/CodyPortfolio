@@ -77,7 +77,7 @@ export const projects = [
         img: "/shortUrl.jpg",
         // iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
         iconLists: ["/next-1.svg", "/tail.svg", "/ts.svg",],
-        link: "https://tiny-url-beige.vercel.app",
+        link: "https://tiny-url-supermarpig.vercel.app/",
     },
     {
         id: 2,
