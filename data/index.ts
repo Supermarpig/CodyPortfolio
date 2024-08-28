@@ -88,7 +88,15 @@ export const projects = [
         link: "https://iphone15-weld.vercel.app",
     },
     {
-        id: 3,
+        "id": 3,
+        "title": "Big File Upload",
+        "des": "An advanced file upload service designed to handle large file sizes efficiently, supporting seamless integration with modern frameworks and technologies.",
+        "img": "/fileUpload.png",
+        "iconLists": ["/next-1.svg", "/tail.svg", "/ts.svg"],
+        "link": "https://tiny-url-supermarpig.vercel.app/fileUpload"
+    },
+    {
+        id: 4,
         title: "Speech To Text",
         des: "A speech-to-text application utilizing the GPT API for accurate and efficient transcription.",
         img: "/speech2text.jpg",
@@ -96,7 +104,7 @@ export const projects = [
         link: "https://project-supermarpig.vercel.app/GPT-speech2text/index.html",
     },
     {
-        id: 4,
+        id: 5,
         title: "LineBot",
         des: "透過line Notify傳PTT訊息通知、 串接gpt API ，變成AI知識機器人",
         img: "/lineBotDD.jpg",
@@ -104,7 +112,7 @@ export const projects = [
         link: "https://liff.line.me/1645278921-kWRPP32q/?accountId=919haefs",
     },
     {
-        id: 5,
+        id: 6,
         title: "Some Protice",
         des: "一些小練習",
         img: "/someTest.jpg",
