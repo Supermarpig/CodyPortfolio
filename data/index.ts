@@ -97,6 +97,14 @@ export const projects = [
     },
     {
         id: 4,
+        title: "JavaScript Event Loop",
+        des: "這個練習是幫助了解事件循環的運作方式，包括調用堆疊（Call Stack）、Web APIs、任務隊列（Task Queue）和微任務隊列（MicroTask Queue）。",
+        img: "/eventloop-Heap.png",
+        iconLists: ["/next-1.svg", "/tail.svg", "/ts.svg",],
+        link: "https://js-eventloop.vercel.app/",
+    },
+    {
+        id: 5,
         title: "Speech To Text",
         des: "A speech-to-text application utilizing the GPT API for accurate and efficient transcription.",
         img: "/speech2text.jpg",
@@ -104,7 +112,7 @@ export const projects = [
         link: "https://project-supermarpig.vercel.app/GPT-speech2text/index.html",
     },
     {
-        id: 5,
+        id: 6,
         title: "LineBot",
         des: "透過line Notify傳PTT訊息通知、 串接gpt API ，變成AI知識機器人",
         img: "/lineBotDD.jpg",
@@ -112,7 +120,7 @@ export const projects = [
         link: "https://liff.line.me/1645278921-kWRPP32q/?accountId=919haefs",
     },
     {
-        id: 6,
+        id: 7,
         title: "Some Protice",
         des: "一些小練習",
         img: "/someTest.jpg",
