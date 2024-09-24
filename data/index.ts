@@ -133,7 +133,7 @@ export const projects = [
         des: "一些小練習",
         img: "/someTest.jpg",
         iconLists: [],
-        link: "https://project-drvaha43d-supermarpigs-projects.vercel.app/",
+        link: "https://project-supermarpigs-projects.vercel.app/",
     },
 ];
 
