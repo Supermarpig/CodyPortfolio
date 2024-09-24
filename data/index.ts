@@ -121,11 +121,19 @@ export const projects = [
     },
     {
         id: 7,
+        title: "月曆組件",
+        des: "使用react + vite + ts 開發的月曆組件專案，支持單日期選擇和範圍日期選擇功能",
+        img: "/calendarTest.png",
+        iconLists: [],
+        link: "https://calendar-beta-one.vercel.app/",
+    },
+    {
+        id: 8,
         title: "Some Protice",
         des: "一些小練習",
         img: "/someTest.jpg",
         iconLists: [],
-        link: "https://project-supermarpig.vercel.app/",
+        link: "https://project-drvaha43d-supermarpigs-projects.vercel.app/",
     },
 ];
 
