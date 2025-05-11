@@ -129,7 +129,7 @@ export const projects = [
     },
     {
         id: 8,
-        title: "Some Protice",
+        title: "Some Practice",
         des: "一些小練習",
         img: "/someTest.jpg",
         iconLists: [],
